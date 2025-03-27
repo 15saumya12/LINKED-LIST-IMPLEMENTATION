@@ -54,10 +54,11 @@ STEP5: implementing printing function.
 - Prints the data member of each node
 - Continues until it reaches the end of the linked list
 
-![Image](https://github.com/user-attachments/assets/0fd4ac94-6b3c-4cd3-bb29-4cb5c6ebea67)
 STEP6: implementing freeing function.
      We implemented a function called freeList to free the memory allocated for the linked list. The function:
 - Starts at the head node and traverses the linked list
 - Frees the memory allocated for each node using free
 - Continues until it reaches the end of the linked list (i.e., NULL)
 - Sets the head member of the linked list to NULL.
+
+- ![Image](https://github.com/user-attachments/assets/0fd4ac94-6b3c-4cd3-bb29-4cb5c6ebea67)
