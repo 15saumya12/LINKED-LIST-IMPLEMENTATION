@@ -61,4 +61,5 @@ STEP6: implementing freeing function.
 - Continues until it reaches the end of the linked list (i.e., NULL)
 - Sets the head member of the linked list to NULL.
 
+*OUTPUT*
 - ![Image](https://github.com/user-attachments/assets/0fd4ac94-6b3c-4cd3-bb29-4cb5c6ebea67)
