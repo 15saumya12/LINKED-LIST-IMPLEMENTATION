@@ -17,12 +17,18 @@
 TASK:- TO CREATE A PROGRAM TO IMPLEMENT A SINGLY LINKED LIST WITH OPERATIONS LIKE INSERTION,DELETION,AND TRAVERSAL
 
 A Singly linked list is a linear data structure in which each element is a saperate object, known as a node.
+
 OPERATIONS:-
           INSERTION: inserting a new node at the beginning end or at a specific posiitons in the list.
+          
           DELETION:  deleting a node from the list
+          
           TRAVERSAL: Traversing the list to access or modify the nodes.
+          
           SEARCHING: Searching for a specific node in the list.
+          
 In this we have used varioys steps for the implementation i.e.,
+
 STEP1: defining the node structure
       In this we define node to represent each element in the linked list.Node consist of two memebers:DATA and NEXT. 
       
