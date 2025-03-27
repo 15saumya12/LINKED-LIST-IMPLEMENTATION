@@ -52,7 +52,8 @@ STEP5: implementing printing function.
       We implemented a function called printList to print the contents of the linked list. The function:
 - Starts at the head node and traverses the linked list
 - Prints the data member of each node
-- Continues until it reaches the end of the linked list 
+- Continues until it reaches the end of the linked list
+- 
 STEP6: implementing freeing function.
      We implemented a function called freeList to free the memory allocated for the linked list. The function:
 - Starts at the head node and traverses the linked list
